@@ -1,0 +1,7 @@
+The project is about making and configuring a newtwork model based on a given scenario.
+Software used: Cisco Packet Tracer
+
+Contributors:
+1.Abdur Rob Tanvir, undergraduate student,  Bangladesh.
+2.Md.Azizul Haque Emu, undergraduate student, Bangladesh.
+3. Miraj Mahmood, undergraduate student, Bangladesh.
